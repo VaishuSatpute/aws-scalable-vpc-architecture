@@ -32,7 +32,3 @@ An AWS networking practice project focused on designing a modular, highly availa
 ## Deployment Status
 
 This repository is an infrastructure learning/practice implementation. AWS resources are not claimed as currently deployed.
-
-## Source / Attribution
-
-Architecture concepts were studied from the DevOps-Projects community repository by Harshhaa and adapted for learning. This repository is not presented as the original source.
